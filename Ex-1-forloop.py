@@ -10,4 +10,7 @@ print("First modification for 2nd commit")
 
 print("Added this line of code from techdevelopers form git terminal")
 
+print("Added this line of code from the devteam1 from GitHub")
+
+
 print("Added this line from devteam1 for the first time")
