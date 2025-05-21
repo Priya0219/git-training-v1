@@ -7,3 +7,5 @@ def count_to_n(x = n):
 print("Going to count to {}. . . .".format(n))
 count_to_n(n)
 print("First modification for 2nd commit")
+
+print("Added this line of code from techdevelopers form git terminal")
