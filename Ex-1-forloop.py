@@ -16,3 +16,7 @@ print("Added 2st line from techteam1 on GitHub")
 #---------
 print("Added this line from user3")
 x = 100
+#---------
+print("Added this line from user3")
+b = 700
+c = 900
